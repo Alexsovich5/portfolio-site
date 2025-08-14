@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "name": "Cloud & Infrastructure",
+      "skills": [
+        {"name": "AWS", "level": 95, "icon": "☁️", "description": "Expert in AWS services including EC2, S3, RDS, Lambda, and CloudFormation"},
+        {"name": "Docker", "level": 92, "icon": "🐳", "description": "Containerization and orchestration with Docker and Docker Compose"},
+        {"name": "Kubernetes", "level": 88, "icon": "⚓", "description": "Container orchestration, deployment, and management"},
+        {"name": "Terraform", "level": 90, "icon": "🏗️", "description": "Infrastructure as Code and cloud resource management"},
+        {"name": "Azure", "level": 85, "icon": "☁️", "description": "Microsoft Azure cloud services and solutions"},
+        {"name": "GCP", "level": 80, "icon": "☁️", "description": "Google Cloud Platform services and deployment"}
+      ]
+    },
+    {
+      "name": "DevOps & CI/CD",
+      "skills": [
+        {"name": "Jenkins", "level": 92, "icon": "🤖", "description": "CI/CD pipeline automation and build management"},
+        {"name": "GitLab CI", "level": 88, "icon": "🦊", "description": "GitLab CI/CD pipelines and automation"},
+        {"name": "Ansible", "level": 85, "icon": "⚙️", "description": "Configuration management and automation"},
+        {"name": "Prometheus", "level": 82, "icon": "📊", "description": "Monitoring and alerting systems"},
+        {"name": "Grafana", "level": 80, "icon": "📈", "description": "Data visualization and monitoring dashboards"},
+        {"name": "ELK Stack", "level": 78, "icon": "🔍", "description": "Log management and analysis"}
+      ]
+    },
+    {
+      "name": "Programming & Scripting",
+      "skills": [
+        {"name": "Python", "level": 90, "icon": "🐍", "description": "Backend development, automation, and data processing"},
+        {"name": "Bash", "level": 88, "icon": "💻", "description": "Shell scripting and system administration"},
+        {"name": "JavaScript", "level": 75, "icon": "📜", "description": "Frontend development and Node.js applications"},
+        {"name": "Go", "level": 70, "icon": "🐹", "description": "System programming and microservices"},
+        {"name": "SQL", "level": 85, "icon": "🗄️", "description": "Database design and query optimization"},
+        {"name": "YAML", "level": 90, "icon": "📝", "description": "Configuration files and infrastructure definitions"}
+      ]
+    },
+    {
+      "name": "Security & Compliance",
+      "skills": [
+        {"name": "Security Best Practices", "level": 92, "icon": "🔒", "description": "Security implementation and compliance standards"},
+        {"name": "IAM", "level": 88, "icon": "👤", "description": "Identity and Access Management"},
+        {"name": "Encryption", "level": 85, "icon": "🔐", "description": "Data encryption at rest and in transit"},
+        {"name": "Compliance", "level": 90, "icon": "📋", "description": "HIPAA, SOC2, PCI-DSS compliance"},
+        {"name": "Penetration Testing", "level": 75, "icon": "🛡️", "description": "Security assessment and vulnerability testing"},
+        {"name": "WAF", "level": 80, "icon": "🛡️", "description": "Web Application Firewall configuration"}
+      ]
+    },
+    {
+      "name": "Monitoring & Observability",
+      "skills": [
+        {"name": "Application Monitoring", "level": 88, "icon": "👁️", "description": "APM and performance monitoring"},
+        {"name": "Log Management", "level": 85, "icon": "📋", "description": "Centralized logging and log analysis"},
+        {"name": "Alerting", "level": 82, "icon": "🚨", "description": "Proactive monitoring and incident response"},
+        {"name": "Distributed Tracing", "level": 75, "icon": "🔍", "description": "Microservices tracing and debugging"},
+        {"name": "Metrics Collection", "level": 88, "icon": "📊", "description": "Custom metrics and business KPIs"},
+        {"name": "Health Checks", "level": 90, "icon": "❤️", "description": "Service health monitoring and self-healing"}
+      ]
+    },
+    {
+      "name": "Data & Analytics",
+      "skills": [
+        {"name": "Apache Kafka", "level": 80, "icon": "📨", "description": "Stream processing and event-driven architecture"},
+        {"name": "Apache Spark", "level": 75, "icon": "⚡", "description": "Big data processing and analytics"},
+        {"name": "InfluxDB", "level": 78, "icon": "📈", "description": "Time-series database for IoT and monitoring"},
+        {"name": "Redis", "level": 85, "icon": "⚡", "description": "In-memory data structure store and caching"},
+        {"name": "Data Pipeline", "level": 82, "icon": "🔄", "description": "ETL processes and data transformation"},
+        {"name": "Business Intelligence", "level": 75, "icon": "📊", "description": "Data visualization and reporting"}
+      ]
+    }
+  ]
+}

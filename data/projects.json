@@ -1,0 +1,106 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Healthcare Infrastructure Transformation",
+      "description": "Architected and implemented comprehensive cloud migration for a major healthcare provider, reducing infrastructure costs by 40% while improving system reliability and compliance with HIPAA standards. Led a team of 15 engineers through the complete transformation.",
+      "metrics": {
+        "uptime": "99.9%",
+        "costSaving": "40%",
+        "dataLoss": "0",
+        "deploymentTime": "60% faster"
+      },
+      "technologies": ["AWS", "Terraform", "Docker", "Kubernetes", "Jenkins", "Prometheus"],
+      "image": "/assets/images/projects/healthcare.png",
+      "caseStudyUrl": "/case-studies/healthcare",
+      "githubUrl": "https://github.com/alexsander/healthcare-infra",
+      "liveUrl": "https://healthcare-platform.com",
+      "category": "Infrastructure"
+    },
+    {
+      "id": 2,
+      "title": "E-commerce Platform Scalability",
+      "description": "Designed and deployed a highly scalable e-commerce platform serving 2M+ users daily. Implemented microservices architecture with auto-scaling capabilities, resulting in 300% performance improvement during peak traffic.",
+      "metrics": {
+        "users": "2M+ daily",
+        "performance": "300% improvement",
+        "availability": "99.95%",
+        "responseTime": "<200ms"
+      },
+      "technologies": ["AWS", "ECS", "RDS", "ElastiCache", "CloudFront", "Lambda"],
+      "image": "/assets/images/projects/ecommerce.png",
+      "caseStudyUrl": "/case-studies/ecommerce",
+      "githubUrl": "https://github.com/alexsander/ecommerce-platform",
+      "liveUrl": "https://ecommerce-platform.com",
+      "category": "Web Application"
+    },
+    {
+      "id": 3,
+      "title": "DevOps Automation Pipeline",
+      "description": "Built a comprehensive CI/CD pipeline that reduced deployment time from 4 hours to 15 minutes. Implemented automated testing, security scanning, and blue-green deployments with zero-downtime releases.",
+      "metrics": {
+        "deploymentTime": "15 minutes",
+        "testCoverage": "95%",
+        "securityIssues": "0 critical",
+        "deploymentSuccess": "99.8%"
+      },
+      "technologies": ["Jenkins", "GitLab CI", "Ansible", "Docker", "Kubernetes", "SonarQube"],
+      "image": "/assets/images/projects/devops-pipeline.png",
+      "caseStudyUrl": "/case-studies/devops-pipeline",
+      "githubUrl": "https://github.com/alexsander/devops-automation",
+      "liveUrl": null,
+      "category": "DevOps"
+    },
+    {
+      "id": 4,
+      "title": "Financial Services Security Platform",
+      "description": "Developed a secure, compliant platform for financial services handling $50M+ in transactions daily. Implemented advanced security measures including encryption at rest/transit, multi-factor authentication, and real-time fraud detection.",
+      "metrics": {
+        "transactions": "$50M+ daily",
+        "securityScore": "A+",
+        "compliance": "100%",
+        "fraudDetection": "99.9% accuracy"
+      },
+      "technologies": ["AWS", "VPC", "WAF", "CloudTrail", "GuardDuty", "Secrets Manager"],
+      "image": "/assets/images/projects/financial.png",
+      "caseStudyUrl": "/case-studies/financial",
+      "githubUrl": "https://github.com/alexsander/financial-platform",
+      "liveUrl": null,
+      "category": "Security"
+    },
+    {
+      "id": 5,
+      "title": "IoT Data Analytics Platform",
+      "description": "Built a real-time IoT data processing platform handling 1M+ sensor readings per second. Implemented stream processing with Apache Kafka, real-time analytics with Apache Spark, and predictive maintenance algorithms.",
+      "metrics": {
+        "dataPoints": "1M+ per second",
+        "processingLatency": "<100ms",
+        "storageEfficiency": "80% reduction",
+        "predictionAccuracy": "94%"
+      },
+      "technologies": ["Apache Kafka", "Apache Spark", "InfluxDB", "Grafana", "Python", "Docker"],
+      "image": "/assets/images/projects/iot-analytics.png",
+      "caseStudyUrl": "/case-studies/iot-analytics",
+      "githubUrl": "https://github.com/alexsander/iot-analytics",
+      "liveUrl": "https://iot-analytics.com",
+      "category": "Data Analytics"
+    },
+    {
+      "id": 6,
+      "title": "Multi-Cloud Disaster Recovery",
+      "description": "Designed and implemented a comprehensive disaster recovery solution spanning AWS, Azure, and GCP. Achieved RTO of 15 minutes and RPO of 5 minutes, ensuring business continuity for critical applications.",
+      "metrics": {
+        "RTO": "15 minutes",
+        "RPO": "5 minutes",
+        "cloudProviders": "3",
+        "recoverySuccess": "100%"
+      },
+      "technologies": ["AWS", "Azure", "GCP", "Terraform", "Ansible", "Veeam"],
+      "image": "/assets/images/projects/disaster-recovery.png",
+      "caseStudyUrl": "/case-studies/disaster-recovery",
+      "githubUrl": "https://github.com/alexsander/multi-cloud-dr",
+      "liveUrl": null,
+      "category": "Infrastructure"
+    }
+  ]
+}

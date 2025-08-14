@@ -1,0 +1,110 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "title": "Senior DevOps Engineer",
+      "company": "TechCorp Solutions",
+      "location": "Dubai, UAE",
+      "duration": "2023 - Present",
+      "description": "Leading cloud infrastructure and DevOps initiatives for enterprise clients across the Middle East. Architecting scalable solutions and mentoring junior engineers.",
+      "achievements": [
+        "Reduced deployment time by 80% through CI/CD optimization",
+        "Implemented multi-cloud disaster recovery saving $2M annually",
+        "Led team of 8 engineers in cloud migration projects",
+        "Achieved 99.99% uptime for critical applications"
+      ],
+      "technologies": ["AWS", "Azure", "Kubernetes", "Terraform", "Jenkins", "Prometheus"]
+    },
+    {
+      "id": 2,
+      "title": "Infrastructure Architect",
+      "company": "Digital Innovations Ltd",
+      "location": "Dubai, UAE",
+      "duration": "2021 - 2023",
+      "description": "Designed and implemented cloud-native architectures for fintech and healthcare applications. Focused on security, compliance, and scalability.",
+      "achievements": [
+        "Architected platform handling $50M+ daily transactions",
+        "Implemented HIPAA-compliant healthcare infrastructure",
+        "Reduced infrastructure costs by 40% through optimization",
+        "Built automated security scanning pipeline"
+      ],
+      "technologies": ["AWS", "Docker", "Kubernetes", "Python", "Ansible", "ELK Stack"]
+    },
+    {
+      "id": 3,
+      "title": "DevOps Engineer",
+      "company": "CloudFirst Technologies",
+      "location": "Dubai, UAE",
+      "duration": "2019 - 2021",
+      "description": "Automated deployment processes and improved system reliability for e-commerce and SaaS platforms. Implemented monitoring and alerting systems.",
+      "achievements": [
+        "Automated 95% of deployment processes",
+        "Improved system reliability from 98% to 99.9%",
+        "Reduced incident response time by 60%",
+        "Implemented comprehensive monitoring dashboard"
+      ],
+      "technologies": ["Docker", "Jenkins", "Prometheus", "Grafana", "Bash", "Python"]
+    },
+    {
+      "id": 4,
+      "title": "System Administrator",
+      "company": "IT Solutions Middle East",
+      "location": "Dubai, UAE",
+      "duration": "2017 - 2019",
+      "description": "Managed on-premise infrastructure and began cloud migration initiatives. Provided technical support and system maintenance.",
+      "achievements": [
+        "Migrated 50+ servers to cloud infrastructure",
+        "Implemented backup and disaster recovery solutions",
+        "Reduced system downtime by 70%",
+        "Trained team on cloud technologies"
+      ],
+      "technologies": ["Linux", "VMware", "AWS", "Bash", "Python", "MySQL"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Technology",
+      "location": "Dubai, UAE",
+      "duration": "2013 - 2017",
+      "description": "Focused on software engineering, database systems, and network security."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Solutions Architect Professional",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "validUntil": "2026"
+    },
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "2022",
+      "validUntil": "2025"
+    },
+    {
+      "name": "Terraform Associate",
+      "issuer": "HashiCorp",
+      "date": "2022",
+      "validUntil": "2025"
+    },
+    {
+      "name": "Docker Certified Associate",
+      "issuer": "Docker Inc.",
+      "date": "2021",
+      "validUntil": "2024"
+    },
+    {
+      "name": "CompTIA Security+",
+      "issuer": "CompTIA",
+      "date": "2020",
+      "validUntil": "2023"
+    }
+  ],
+  "languages": [
+    {"name": "English", "level": "Native"},
+    {"name": "Arabic", "level": "Fluent"},
+    {"name": "Amharic", "level": "Native"}
+  ]
+}
